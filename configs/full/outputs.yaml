@@ -1,0 +1,5 @@
+outputs:
+  logs_dir: outputs/logs
+  figures_dir: outputs/figures
+  videos_dir: outputs/videos
+  models_dir: outputs/models

@@ -1,0 +1,14 @@
+Random-start generalization evaluation
+episodes=2
+sample_candidates=1
+All sampled starts are excluded from the training start_scenarios.
+
+ippo_sample_shield completion_mean=0.25
+ippo_sample_shield completion_ci95=[-0.24, 0.74]
+ippo_sample_shield priority_completion_mean=0.25
+ippo_sample_shield priority_completion_ci95=[-0.24, 0.74]
+ippo_sample_shield collision_mean=3.0
+thresholds=completion_ci95_low>=0.95, priority_ci95_low>=0.95, collision_mean<=60.0
+verdict=NOT_PASS
+
+Note: this is statistical evidence over finite unseen random starts, not a mathematical proof over all possible starts.

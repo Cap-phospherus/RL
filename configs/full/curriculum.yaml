@@ -1,0 +1,28 @@
+curriculum:
+  - name: static_routing
+    episodes: 100
+    select_checkpoint: false
+    env_overrides:
+      deterministic_resets: true
+      randomize_starts: false
+      initial_battery: 180
+      max_steps: 260
+      congestion_penalty: 0.1
+  - name: medium_battery
+    episodes: 100
+    select_checkpoint: false
+    env_overrides:
+      deterministic_resets: true
+      randomize_starts: false
+      initial_battery: 160
+      max_steps: 300
+      congestion_penalty: 0.15
+  - name: battery_pressure
+    episodes: 150
+    select_checkpoint: false
+    env_overrides:
+      deterministic_resets: true
+      randomize_starts: false
+      initial_battery: 135
+      max_steps: 360
+      congestion_penalty: 0.18

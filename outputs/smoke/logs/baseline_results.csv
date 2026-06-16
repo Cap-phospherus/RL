@@ -1,0 +1,7 @@
+policy,episode,episode_reward,completed_tasks,total_tasks,completion_rate,completed_priority,total_priority,priority_completion_rate,collision_count,timeout_count,total_battery,steps
+random,1,91.5,2,2,1.0,2.0,2.0,1.0,0,1,126.0,78
+greedy_shortest_path,1,108.08,2,2,1.0,2.0,2.0,1.0,0,0,174.8,13
+random,2,91.5,2,2,1.0,2.0,2.0,1.0,0,1,126.0,78
+greedy_shortest_path,2,108.08,2,2,1.0,2.0,2.0,1.0,0,0,174.8,13
+random,3,91.5,2,2,1.0,2.0,2.0,1.0,0,1,126.0,78
+greedy_shortest_path,3,108.08,2,2,1.0,2.0,2.0,1.0,0,0,174.8,13

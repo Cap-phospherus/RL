@@ -1,0 +1,11 @@
+policy,episode,candidate,mode,episode_reward,completed_tasks,total_tasks,completion_rate,completed_priority,total_priority,priority_completion_rate,collision_count,timeout_count,total_battery,steps
+random,1,1,single,18.33,1,2,0.5,1.0,2.0,0.5,2,1,51.2,80
+greedy,1,1,single,108.4,2,2,1.0,2.0,2.0,1.0,0,0,174.0,13
+greedy_shield,1,1,single,108.4,2,2,1.0,2.0,2.0,1.0,0,0,174.0,13
+ippo_greedy_shield,1,1,greedy,-52.5,0,2,0.0,0.0,2.0,0.0,0,2,40.0,80
+ippo_sample_shield,1,1,sample,-84.83,0,2,0.0,0.0,2.0,0.0,6,2,53.6,80
+random,2,1,single,-33.6,1,2,0.5,1.0,2.0,0.5,8,1,48.0,80
+greedy,2,1,single,107.58,2,2,1.0,2.0,2.0,1.0,0,0,174.8,13
+greedy_shield,2,1,single,107.58,2,2,1.0,2.0,2.0,1.0,0,0,174.8,13
+ippo_greedy_shield,2,1,greedy,-29.95,0,2,0.0,0.0,2.0,0.0,0,2,40.0,80
+ippo_sample_shield,2,1,sample,43.0,1,2,0.5,1.0,2.0,0.5,0,1,80.0,80

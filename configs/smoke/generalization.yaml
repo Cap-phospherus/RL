@@ -1,0 +1,8 @@
+generalization:
+  episodes: 2
+  sample_candidates: 1
+  seed_base: 1000
+  completion_threshold: 0.95
+  priority_threshold: 0.95
+  max_mean_collisions: 60.0
+  output_prefix: generalization_smoke

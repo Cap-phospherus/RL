@@ -1,0 +1,10 @@
+includes:
+  - smoke/env.yaml
+  - smoke/training.yaml
+  - smoke/policy_evaluation.yaml
+  - smoke/generalization.yaml
+  - smoke/outputs.yaml
+
+experiment:
+  name: warehouse_ippo_smoke
+  description: Fast chain-validation configuration; all outputs must stay under outputs/smoke.
