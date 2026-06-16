@@ -1,5 +1,0 @@
-outputs:
-  logs_dir: outputs/smoke/logs
-  figures_dir: outputs/smoke/figures
-  videos_dir: outputs/smoke/videos
-  models_dir: outputs/smoke/models

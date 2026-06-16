@@ -1,5 +1,0 @@
-evaluation:
-  episodes: 3
-  policy_mode: both
-  sample_candidates: 1
-  render: true
