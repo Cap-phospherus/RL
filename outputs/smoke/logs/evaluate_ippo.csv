@@ -1,7 +1,0 @@
-episode,candidate,mode,episode_reward,completed_tasks,total_tasks,completion_rate,completed_priority,total_priority,priority_completion_rate,collision_count,timeout_count,total_battery,steps
-1,1,greedy,-52.55,0,2,0.0,0.0,2.0,0.0,0,2,40.0,80
-2,1,greedy,-52.55,0,2,0.0,0.0,2.0,0.0,0,2,40.0,80
-3,1,greedy,-52.55,0,2,0.0,0.0,2.0,0.0,0,2,40.0,80
-1,1,sample,-37.46,0,2,0.0,0.0,2.0,0.0,0,2,63.2,80
-2,1,sample,-30.64,0,2,0.0,0.0,2.0,0.0,0,2,57.8,80
-3,1,sample,29.21,1,2,0.5,1.0,2.0,0.5,0,1,102.8,80
