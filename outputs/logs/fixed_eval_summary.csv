@@ -1,6 +1,0 @@
-policy,episodes,episode_reward,completion_rate,priority_completion_rate,collision_count,timeout_count,steps,total_battery
-greedy,5,-2500.4964,1.0,1.0,185.2,0.0,171.0,53.0
-greedy_shield,5,-1362.6084,1.0,1.0,117.2,0.0,171.0,80.36
-ippo_greedy_shield,5,-927.83,0.2667,0.2127,16.4,4.0,420.0,1.52
-ippo_sample_shield,5,897.4,1.0,1.0,34.2,0.0,166.0,282.52
-random,5,-7809.6676,0.4167,0.3787,59.2,5.6,420.0,0.0
